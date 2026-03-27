@@ -207,6 +207,4 @@ Concentrations are derived: `c_i = n_i / V(t)` where `V(t)` is computed from par
 5. **Davies, C.W.** (1962). *Ion Association*. Butterworths.
 6. **Millero, F.J.** (1971). Partial molal volumes of electrolytes. *Chem. Rev.* 71, 147–176.
 
-## License
 
-MIT License. See [LICENSE](LICENSE) for details.
