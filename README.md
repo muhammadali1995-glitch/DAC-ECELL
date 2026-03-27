@@ -11,7 +11,7 @@ This model simulates a batch electrochemical cell that regenerates spent NaOH ab
               │
               ▼
     ┌──────────────────┐
-    │  PACKED COLUMN    │  ← Your separate absorber model
+    │  PACKED COLUMN    │  ← separate absorber model
     │  (external)       │
     └────────┬─────────┘
              │  NaOH → Na₂CO₃
